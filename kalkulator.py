@@ -19,3 +19,4 @@ def kalkulator():
 
 if __name__ == "__main__":
     kalkulator()
+# Avtor: Trajche
